@@ -38,6 +38,9 @@ int main()
 			ruler[j] = ' ';
 		}
 	}
+
+
+	cout << "git tutorial " << endl;
 	
 
 
